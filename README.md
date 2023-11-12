@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/@user-uk9gw3zx9g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@user-uk9gw3zx9g" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCoZPizJUBl4LhcCSdyvE70Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@user-uk9gw3zx9g" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
